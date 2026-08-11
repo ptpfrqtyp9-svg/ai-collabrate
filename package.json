@@ -1,0 +1,10 @@
+{
+  "name": "yourbridge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A privacy-first HomeKit bridge",
+  "dependencies": {
+    "@homebridge/hap-nodejs": "2.1.9"
+  }
+}
